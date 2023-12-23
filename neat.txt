@@ -1,0 +1,4 @@
+total 
+done
+reachd
+mode
